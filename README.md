@@ -10,8 +10,15 @@ This is a Python Based GUI to emulate real world car rental system.
 4. To run the program you must open the code containing folder in terminal(powershell) and type the following code:      python code.py
 5. After that you just need to follow prompts in the GUI.
 
-![Example Image](src/img/car-rental.png)
+![Car Rental Main Page](src/img/car-rental.png)
 
-<img src="/img/car-rental.png" width="500" height="280"/>
+<p align="center">
+<img src="/img/car-rental.png"/>
+</p>
+
+<p align="center">
+  <b>Example of some phishing reports found on Twitter</b>
+</p>
+
 
 
