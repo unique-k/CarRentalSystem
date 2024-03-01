@@ -12,12 +12,9 @@ This is a Python Based GUI to emulate real world car rental system.
 
 ![Car Rental Main Page](src/img/car-rental.png)
 
-<p align="center">
-<img src="/img/car-rental.png"/>
-</p>
 
 <p align="center">
-  <b>Example of some phishing reports found on Twitter</b>
+  <b>Car Rental System Main Page</b>
 </p>
 
 
