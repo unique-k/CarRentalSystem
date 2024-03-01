@@ -11,7 +11,6 @@ This is a Python Based GUI to emulate real world car rental system.
 5. After that you just need to follow prompts in the GUI.
 
 
-
 <img src="/img/car-rental.png" width="500" height="280"/>
 
 
